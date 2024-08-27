@@ -1,6 +1,6 @@
 <h3 align='center'><code>< Hello fellow Developers ✌🏽️ ></code></h3>
   
-![screenshot](https://github.com/eandreaja/eandreaja/assets/151876842/bd0b35f0-023d-4833-ada8-5c52ecc2cd17)
+![screenshot (3)](https://github.com/user-attachments/assets/28a488c7-bbbb-4669-9d86-c9e1a0c88280)
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/eandreaja) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eandreaja) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eandreaja) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/eandreaja) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/eandreaja) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/eandreaja) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/eandreaja) 
 

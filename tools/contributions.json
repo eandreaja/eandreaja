@@ -1,0 +1,20 @@
+[
+  {
+    "project": "SoloMD",
+    "repo": "zhitongblog/solomd",
+    "issue": 246,
+    "kind": "requested",
+    "summary": "Spanish (Hunspell) dictionary support",
+    "verified": true,
+    "shipped": ["v4.14.0"]
+  },
+  {
+    "project": "SoloMD",
+    "repo": "zhitongblog/solomd",
+    "issue": 374,
+    "kind": "reported",
+    "summary": "Text-selection freeze in the Windows editor",
+    "verified": true,
+    "shipped": ["v4.14.6", "v4.14.8"]
+  }
+]

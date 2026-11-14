@@ -2,19 +2,20 @@
   {
     "project": "SoloMD",
     "repo": "zhitongblog/solomd",
-    "issue": 246,
-    "kind": "requested",
-    "summary": "Spanish (Hunspell) dictionary support",
-    "verified": true,
-    "shipped": ["v4.14.0"]
+    "ref": 540,
+    "kind": "contributed",
+    "summary": "Pure Black (OLED) Soft theme",
+    "detail": "pull request merged by the maintainer · 2026-11-12"
   },
   {
     "project": "SoloMD",
     "repo": "zhitongblog/solomd",
-    "issue": 374,
-    "kind": "reported",
-    "summary": "Text-selection freeze in the Windows editor",
+    "issue": 246,
+    "kind": "requested",
+    "summary": "Spanish (Hunspell) dictionary support",
     "verified": true,
-    "shipped": ["v4.14.6", "v4.14.8"]
+    "shipped": [
+      "v4.14.0"
+    ]
   }
 ]
